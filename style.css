@@ -238,12 +238,6 @@ p {
     font-size: 2px;
 }
 
-/* Efecto de hover en el botón */
-.item button:hover {
-    background-color: #a04591;
-}
-
-/* Media Queries para hacerlo responsivo */
 
 /* Para tablets y pantallas medianas */
 @media (max-width: 1024px) {
