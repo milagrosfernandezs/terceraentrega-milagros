@@ -124,6 +124,7 @@ h3, h4 {
 h1 {
     text-align: center;
     color: #f17eda;
+    cursor: pointer;
 }
 
 label {
